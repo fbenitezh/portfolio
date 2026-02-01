@@ -9,7 +9,7 @@ export default function Header() {
       <nav className="max-w-5xl mx-auto px-6 py-1 flex items-center justify-between">
         <Link href="/" className="hover:opacity-70 transition-opacity">
           <Image
-            src="/icon.png"
+            src="icon.png"
             alt="Logo"
             width={100}
             height={40}
