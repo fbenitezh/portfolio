@@ -1,0 +1,37 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio personal - Developer-Builder",
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fbenitezh/portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fbenitezh/portfolio/issues"
+  },
+  "homepage": "https://github.com/fbenitezh/portfolio#readme",
+  "dependencies": {
+    "@tailwindcss/postcss": "^4.1.18",
+    "next": "^16.1.6",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  },
+  "devDependencies": {
+    "@types/node": "^25.1.0",
+    "@types/react": "^19.2.10",
+    "@types/react-dom": "^19.2.3",
+    "autoprefixer": "^10.4.24",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.18",
+    "typescript": "^5.9.3"
+  }
+}

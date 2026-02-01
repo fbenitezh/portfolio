@@ -1,0 +1,137 @@
+{
+  "personal": {
+    "name": "Franco Benítez",
+    "role": "Developer & Builder",
+    "tagline": "Full stack developer enfocado en arquitectura, producto y escalabilidad",
+    "bio": "Construyo soluciones limpias, reutilizables y mantenibles. Me enfoco en resolver problemas reales más allá de solo \"hacer pantallas\". Creo en la claridad sobre la complejidad y en el código que cuenta su propia historia.",
+    "location": "Argentina",
+    "availability": "Disponible para proyectos"
+  },
+  "skills": {
+    "categories": [
+      {
+        "name": "Frontend",
+        "items": [
+          "React",
+          "Next.js",
+          "Slim",
+          "TypeScript",
+          "Tailwind CSS",
+          "Twig"
+        ]
+      },
+      {
+        "name": "Backend",
+        "items": [
+          "PHP",
+          "Node.js",
+          "PostgreSQL",
+          "Mssql",
+          "MongoDB",
+          "REST APIs"
+        ]
+      },
+      {
+        "name": "Arquitectura",
+        "items": [
+          "Microservicios",
+          "Clean Code",
+          "Patrones de diseño",
+          "Escalabilidad"
+        ]
+      },
+      {
+        "name": "Herramientas",
+        "items": [
+          "Git",
+          "Docker",
+          "CI/CD",
+          "Testing"
+        ]
+      }
+    ]
+  },
+  "projects": [
+    {
+      "id": "1",
+      "title": "Landing page Platform",
+      "description": "Plataforma para visualizar propiedades de una inmobiliaria. Escalable con implementacion de un backoffice para gestionar propiedades.",
+      "tags": [
+        "Next.js",
+        "Node.js",
+        "MySQL"
+      ],
+      "year": "2021",
+      "featured": true,
+      "link": "https://asbaccopropiedades.com.ar"
+    },
+    {
+      "id": "2",
+      "title": "SpotiApp",
+      "description": "Clone de spotify con la finalidad de consumir la api de spotify.",
+      "tags": [
+        "Next.js"
+      ],
+      "year": "2022",
+      "featured": true,
+      "link": null
+    },
+    {
+      "id": "3",
+      "title": "Chat",
+      "description": "Chat simple con la finalidad de implementar websockets.",
+      "tags": [
+        "Node.js",
+        "Socket.io"
+      ],
+      "year": "2022",
+      "featured": false,
+      "link": null
+    }
+  ],
+  "experience": [
+    {
+      "id": "1",
+      "role": "Full Stack Developer",
+      "company": "Pilot Solution",
+      "period": "2022 - Presente",
+      "description": "Destacada participacion en proyectos de alto impacto, mentoreo de equipo junior, arquitectura de sistemas escalables."
+    },
+    {
+      "id": "2",
+      "role": "Full Stack Developer",
+      "company": "Honorable Camara de Diputados de la Nacion Argentina",
+      "period": "2020 - 2022",
+      "description": "Desarrollo y mantenimiento de aplicaciones web para la Honorable Camara de Diputados de la Nacion Argentina."
+    },
+    {
+      "id": "3",
+      "role": "Mobile Developer",
+      "company": "Kalostec SA",
+      "period": "2020 - 2020",
+      "description": "Desarrollo de aplicaciones móviles"
+    },
+    {
+      "id": "4",
+      "role": "Full Stack Developer",
+      "company": "Freelancer",
+      "period": "2018 - 2020",
+      "description": "Desarrollo de sistemas web para clientes particulares"
+    }
+  ],
+  "contact": {
+    "email": "francobenitez980@gmail.com",
+    "social": [
+      {
+        "platform": "GitHub",
+        "url": "https://github.com/fbenitezh",
+        "username": "@fbenitezh"
+      },
+      {
+        "platform": "LinkedIn",
+        "url": "https://www.linkedin.com/in/franco-benitez-bb778b175/",
+        "username": "francobenitez"
+      }
+    ]
+  }
+}
